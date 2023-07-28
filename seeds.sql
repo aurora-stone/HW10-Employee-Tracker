@@ -21,4 +21,4 @@ VALUE ("Sponge", "Bob", null, 1);
 INSERT INTO employee (first_name, last_name, manager_id, role_id)
 VALUE ("Patrick", "Star", null, 2);
 INSERT INTO employee (first_name, last_name, manager_id, role_id)
-VALUE ("Squidward", "Tentacles", null,3 );
+VALUE ("Squidward", "Tentacles", null, 3 );
